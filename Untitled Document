@@ -18,6 +18,11 @@ from branch1
 =======
 from master
 >>>>>>> branch2
+<<<<<<< HEAD
 >>>>>>> branch1
 
+>>>>>>> branch1
+=======
+modified version
+wordpress user vishal pass mint
 >>>>>>> branch1
