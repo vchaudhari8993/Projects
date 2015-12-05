@@ -4,6 +4,12 @@ add another line in this
 hello anothe change
 another change
 mother
+<<<<<<< HEAD
 from master
 modified
 wordpress user vishal pass mint
+=======
+from branch1
+
+
+>>>>>>> branch1
