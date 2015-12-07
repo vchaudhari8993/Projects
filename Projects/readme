@@ -1,0 +1,28 @@
+test document to upload
+saedutech
+add another line in this
+hello anothe change
+another change
+mother
+<<<<<<< HEAD
+<<<<<<< HEAD
+from master
+modified
+wordpress user vishal pass mint
+=======
+from branch1
+
+=======
+from branch1
+
+=======
+from master
+>>>>>>> branch2
+<<<<<<< HEAD
+>>>>>>> branch1
+
+>>>>>>> branch1
+=======
+modified version
+wordpress user vishal pass mint
+>>>>>>> branch1
